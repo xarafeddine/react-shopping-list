@@ -1,0 +1,12 @@
+.form {
+  display: grid;
+  grid-template-columns: 3fr 2fr 1fr;
+  gap: 5px;
+  margin: 10px auto;
+  padding: 0 5px;
+}
+.form input {
+  height: 50px;
+  padding-left: 10px;
+  background-color: rgb(231, 231, 235);
+}
